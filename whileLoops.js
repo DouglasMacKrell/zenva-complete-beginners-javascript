@@ -8,9 +8,8 @@ var isGameOver = false;
 // }
 
 while (!isGameOver) {
-  if (pos < enemyPos || pos < endPos) {
-    pos++;
-  } else {
+  pos++;
+  if (pos == enemyPos || pos >= endPos) {
     isGameOver = !isGameOver;
   }
 }
