@@ -50,3 +50,4 @@ let lives = 1
 
 let isGameOver = lives == 0 ? true : false
 
+// let isGameOver = !(lives > 0);
