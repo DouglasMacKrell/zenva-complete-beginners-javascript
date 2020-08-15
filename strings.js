@@ -15,3 +15,8 @@ let zen = characterName.slice(0, 3);
 let levelNum = 1
 
 let levelStartMessage = `Level ${levelNum}`
+
+let hello = "Hello";
+let world = "world";
+
+let helloWorld = hello + " " + world
