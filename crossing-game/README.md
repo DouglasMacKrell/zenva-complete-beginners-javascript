@@ -4,6 +4,13 @@
 
 [![Doug's Crossing Game](https://dougs-crossing-game.netlify.app/doug-crossing-social.jpg)](https://dougs-crossing-game.netlify.app)
 
+Use the left and right arrow keys to move the nerdbird and grab the treasure.
+
+WATCH OUT FOR CRABS. THE MORTAL ENEMY OF THE NERDBIRD.
+
+### Created Through A [Zenva](https://academy.zenva.com/) Course
+
+### [CERTIFICATION AWARDED](https://academy.zenva.com/certificate/f699b683/)
 
 ---
 
