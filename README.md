@@ -12,6 +12,8 @@ WATCH OUT FOR CRABS. THE MORTAL ENEMY OF THE NERDBIRD.
 
 ### [CERTIFICATION AWARDED](https://academy.zenva.com/certificate/f699b683/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eaaf51b8-e0b8-414b-ba06-7c62bf106f4a/deploy-status)](https://app.netlify.com/sites/dougs-crossing-game/deploys)
+
 ---
 
 ## Videos
